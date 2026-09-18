@@ -1,1 +1,2 @@
-vicente, enrique, rosi, jose luis
+vicente, enrique, rosi
+Ana Mari, jose luis
